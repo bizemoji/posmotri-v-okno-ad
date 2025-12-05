@@ -1,0 +1,1 @@
+git@github.com:bizemoji/posmotri-v-okno-ad.git

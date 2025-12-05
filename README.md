@@ -1,1 +1,1 @@
-git@github.com:bizemoji/posmotri-v-okno-ad.git
+https://github.com/bizemoji/posmotri-v-okno-ad
